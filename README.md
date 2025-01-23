@@ -32,12 +32,12 @@
 ### 1. Landing Page
 The landing page of CineSpot features a clean and intuitive search bar where users can enter a title and filter by release year.
 
-    ![CineSpot Landing Page](src/assets/cinespot_landing_page.png)
+  ![CineSpot Landing Page](src/assets/cinespot_landing_page.png)
   
 ### 2. Display Page
 The display page presents the results as clickable gallery cards. Users can view detailed information about a title by clicking the **Show More** button. 
 
-    ![CineSpot Landing Page](src/assets/cinespot_display_page.png)
+  ![CineSpot Landing Page](src/assets/cinespot_display_page.png)
 
 ## Planned Improvements
 
@@ -81,19 +81,17 @@ Follow these steps to run CineSpot locally:
 
 1. Clone the repository:
 
-        ```
         git clone https://github.com/poojaiyengar123/CineSpot.git
         cd CineSpot
-        ```
 
 2. Install dependencies:
 
-        ```npm install```
+        npm install
 
 3. Start the development server:
 
-        ```npm run dev```
+        npm run dev
 
 4. Open your browser and navigate to:
 
-        ```http://localhost:5173```
+        http://localhost:5173
